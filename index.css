@@ -1,0 +1,47 @@
+#titles {
+    background-image: url('media/bald_eagle.webp'), url('media/bald_eagle.webp');
+    background-repeat: no-repeat, no-repeat;
+    background-size: 25% 100%, 25% 100%;
+    background-position: left, right;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#questions-card {
+    background-image: url('media/trump_hugs_flag.gif'), url('media/biden_laughing.gif');
+    background-repeat: no-repeat, no-repeat;
+    background-size: 25% 100%, 25% 100%;
+    background-position: left, right;
+}
+
+#question-form {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+#button-section {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#votes-section {
+    display: block;
+    text-align: center;
+}
+
+#trump-button {
+    color: red;
+}
+
+#biden-button {
+    color: blue;
+}
