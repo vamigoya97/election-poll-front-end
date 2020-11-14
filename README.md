@@ -6,3 +6,8 @@ Web app that asks user to respond to questions specifically about the 2020 Presi
 
 ## Technologies
 
+Utilized Ruby for the back-end and JavaScript for the front-end.
+
+## Author
+
+<a href="https://www.linkedin.com/in/victor-amigo-76146115b/">Victor Amigo</a>
